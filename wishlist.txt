@@ -2,4 +2,4 @@ dimwishlist:item=2171478765&perks=3038247973#notes:titan
 
 
 //Jörg
-dimwishlist:item=1119734784&perks=1482024992,106909392,2779035018,2726471870#notes:Warlock
+dimwishlist:item=1119734784&perks=2726471870#notes:Warlock
